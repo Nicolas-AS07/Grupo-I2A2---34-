@@ -1,2 +1,2 @@
 # Grupo-I2A2---34-
-Repositório para o projeto co curso de Inteligencia Artificial
+Bem-vindo ao repositório do nosso grupo de estudos do curso de Inteligência Artificial do I2A2!
